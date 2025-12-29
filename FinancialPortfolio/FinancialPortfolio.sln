@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancialPortfolio.AppHost", "FinancialPortfolio.AppHost\FinancialPortfolio.AppHost.csproj", "{598DB7BA-413E-4852-A80B-05F68448373A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancialPortfolio.ServiceDefaults", "FinancialPortfolio.ServiceDefaults\FinancialPortfolio.ServiceDefaults.csproj", "{F38B538C-88D5-44C8-A2A1-048AFFBABDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598DB7BA-413E-4852-A80B-05F68448373A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598DB7BA-413E-4852-A80B-05F68448373A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598DB7BA-413E-4852-A80B-05F68448373A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598DB7BA-413E-4852-A80B-05F68448373A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38B538C-88D5-44C8-A2A1-048AFFBABDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B538C-88D5-44C8-A2A1-048AFFBABDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38B538C-88D5-44C8-A2A1-048AFFBABDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38B538C-88D5-44C8-A2A1-048AFFBABDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5764675E-D23F-4A9D-B315-B6AA8C929C7B}
+	EndGlobalSection
+EndGlobal
